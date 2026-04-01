@@ -1,0 +1,29 @@
+[
+  {
+    "MaNV": "123",
+    "TenNV": "nguyen",
+    "GioiTinh": "Nam",
+    "NgaySinh": "31/03/2026",
+    "HeSoLuong": "1",
+    "ChucVu": "Bác Sĩ",
+    "PhongBan": "Nội Khoa"
+  },
+  {
+    "MaNV": "222",
+    "TenNV": "nam",
+    "GioiTinh": "Nam",
+    "NgaySinh": "06/03/2026",
+    "HeSoLuong": "3",
+    "ChucVu": "Y Tá",
+    "PhongBan": "Ngoại Khoa"
+  },
+  {
+    "MaNV": "4444",
+    "TenNV": "trang",
+    "GioiTinh": "Nữ",
+    "NgaySinh": "06/03/2026",
+    "HeSoLuong": "3",
+    "ChucVu": "Điều Dưỡng",
+    "PhongBan": "ICU"
+  }
+]

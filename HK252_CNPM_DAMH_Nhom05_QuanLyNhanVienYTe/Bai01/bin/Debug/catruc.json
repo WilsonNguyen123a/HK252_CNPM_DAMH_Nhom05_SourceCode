@@ -1,0 +1,23 @@
+[
+  {
+    "MaNV": "123",
+    "TenNV": "nguyen",
+    "ChucVu": null,
+    "NgayTruc": "Tuesday, March 31, 2026",
+    "Ca": "Sáng"
+  },
+  {
+    "MaNV": "222",
+    "TenNV": "nam",
+    "ChucVu": null,
+    "NgayTruc": "Tuesday, March 31, 2026",
+    "Ca": "Chiều"
+  },
+  {
+    "MaNV": "4444",
+    "TenNV": "trang",
+    "ChucVu": null,
+    "NgayTruc": "Tuesday, March 31, 2026",
+    "Ca": "Sáng"
+  }
+]
